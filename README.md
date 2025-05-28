@@ -45,7 +45,7 @@ I’m **Muhammad Saleem**, a passionate cybersecurity learner and future SOC Ana
 
 ## 🔗 Let’s Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/muhammad-saleem-channa-b92a32347)
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-saleem-channa-b92a32347)
 - 🌐 Portfolio (coming soon)
 - 🐙 [My GitHub](https://github.com/muhammadsaleem12)
 
